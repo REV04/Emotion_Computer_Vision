@@ -21,7 +21,7 @@ The purpose of this project is to classify emotions based on facial images. I so
 
 ## Project Description
 
-The dataset used for creating this model is sourced from Kaggle (https://www.kaggle.com/datasets/ananthu017/emotion-detection-fer). This dataset contains images categorized into seven emotions: angry, disgusted, fearful, happy, neutral, sad, and surprised. The model built using this dataset achieved the following results:
+The dataset used for creating this model is sourced from Kaggle. This dataset contains images categorized into seven emotions: angry, disgusted, fearful, happy, neutral, sad, and surprised. The model built using this dataset achieved the following results:
 
 - Accuracy before using transfer learning: 0.4224
 - Accuracy after using transfer learning with DenseNet: 0.5861
@@ -38,8 +38,8 @@ The model shows weakness in classifying emotions with a limited amount of data. 
 
 ## Featured Notebooks/Analysis/Deliverables
 
-- [Hungging Face for model usage demonstration](https://huggingface.co/spaces/REV04/Emotion)
+- [Hugging Face for model usage demonstration](https://huggingface.co/spaces/REV04/Emotion)
 
 ## Contact
 
-- If you have any question or want to contribute with this project, feel free to ask me in [linkedin](https://www.linkedin.com/in/richard-edgina-virgo-a7435319b/).
+- If you have any question or want to contribute with this project, feel free to ask me in [linkedln](https://www.linkedin.com/in/richard-edgina-virgo-a7435319b/).
