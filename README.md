@@ -1,4 +1,4 @@
-# Emotion_Computer_Vision
+# Emotion Computer Vision
 
 This project, Emotion Computer Vision, is a part of my Hacktiv8 coursework. I chose this topic to deepen my skills in image processing, expanding beyond my experience in text processing. My other personal project can be found at the [Richard Edgina Virgo](https://github.com/REV04)
 
